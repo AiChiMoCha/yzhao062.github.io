@@ -8,7 +8,7 @@
     "docs_url": "https://pyod.readthedocs.io",
     "paper_url": "https://arxiv.org/abs/2412.12154",
     "demo_url": "",
-    "stars": 9977,
+    "stars": 9978,
     "tags": [
       "Anomaly Detection",
       "Outlier Detection",
@@ -46,7 +46,7 @@
     "docs_url": "",
     "paper_url": "",
     "demo_url": "",
-    "stars": 123,
+    "stars": 125,
     "tags": [
       "Agent Auditability",
       "Agent Reliability",
@@ -139,7 +139,7 @@
     "docs_url": "",
     "paper_url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/da0ddd47c18ae3dd2888ff2ea4b6ccf7-Abstract-Datasets_and_Benchmarks.html",
     "demo_url": "",
-    "stars": 1021,
+    "stars": 1023,
     "tags": [
       "Anomaly Detection",
       "Benchmark",
@@ -157,7 +157,7 @@
     "docs_url": "",
     "paper_url": "",
     "demo_url": "",
-    "stars": 9370,
+    "stars": 9375,
     "tags": [
       "Awesome List",
       "Anomaly Detection",
@@ -176,7 +176,7 @@
     "docs_url": "",
     "paper_url": "",
     "demo_url": "",
-    "stars": 1612,
+    "stars": 1613,
     "tags": [
       "Writing",
       "Research Workflow",
@@ -248,7 +248,7 @@
     "docs_url": "https://tdcommons.ai",
     "paper_url": "https://proceedings.neurips.cc/paper/2021/hash/6a8d3b0f5987e0f6d3d2f5f65f02e3cc-Abstract.html",
     "demo_url": "",
-    "stars": 1278,
+    "stars": 1279,
     "tags": [
       "Therapeutics",
       "Benchmark",
@@ -379,7 +379,7 @@
     "docs_url": "https://viterbi-web.usc.edu/~yzhao010/agent-style.html",
     "paper_url": "",
     "demo_url": "https://pypi.org/project/agent-style/",
-    "stars": 658,
+    "stars": 665,
     "tags": [
       "AI Agents",
       "Agent Configuration",
